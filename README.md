@@ -2,9 +2,9 @@
 
 xr系列是一套整体的前端解决方案，分为以下几个部分
 
-## xr-app-loader
+## [xr-app-loader](https://github.com/ziaochina/xr-app-loader)
 
-应用加载器
+应用加载器(90%)
 
 - 基于react, redux, immutable
 - 将前端页面拆分为独立职责的多个app
@@ -14,18 +14,18 @@ xr系列是一套整体的前端解决方案，分为以下几个部分
 
 ![](./img/001.png)
 
-## xr-component
+## [xr-component](https://ziaochina.github.io/xr-component/)
 
-组件库
+组件库(90%)
 
 - 基于antd, echars, fixed-data-table
 - 是一套纯组件库
 
 ![](./img/002.png)
 
-## xr-meta-engine
+## [xr-meta-engine](https://github.com/ziaochina/xr-meta-engine)
 
-界面元数据引擎
+界面元数据引擎(10%)
 
 - 将前端界面使用json方式进行配置，交互事件也通过json配置
 - 引擎初始化需要使用者注册元数据化组件库以及界面交互modal、消息提醒的组件
@@ -33,9 +33,9 @@ xr系列是一套整体的前端解决方案，分为以下几个部分
 
 ![](./img/004.png)
 
-## xr-meta-component
+## [xr-meta-component](https://github.com/ziaochina/xr-meta-componet)
 
-元数据控件
+元数据控件(0%)
 
 - 基于xr-component
 - 用于注册到元数据引擎使用
@@ -43,9 +43,9 @@ xr系列是一套整体的前端解决方案，分为以下几个部分
 
 ![](./img/003.png)
 
-## xr-tools
+## [xr-tools](https://github.com/ziaochina/xr-tools)
 
-nodejs命令工具
+nodejs命令工具(50%)
 
 - 支持快速搭建app脚手架
 - 支持动态生成index.js文件
@@ -53,9 +53,9 @@ nodejs命令工具
 
 ![](./img/006.png)
 
-## xr-utils
+## [xr-utils](https://github.com/ziaochina/xr-utils)
 
-函数库
+函数库(30%)
 
 ![](./img/007.png)
 
